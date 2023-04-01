@@ -1,1 +1,6 @@
 this is my commit 
+
+
+after the changes, pushing and committing 
+
+again adding a new line
